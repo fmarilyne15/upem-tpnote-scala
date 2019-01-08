@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Titanic",
+    "director": "James Cameron",
+    "year": "1997",
+    "views": 21774181,
+    "country": "US"
+  },
+  {
+    "title": "Bienvenue chez les Ch'tis",
+    "director": "Dany Boon",
+    "year": "2008",
+    "views": 20489303,
+    "country": "FR"
+  },
+  {
+    "title": "Intouchables",
+    "director": "Eric Toledano",
+    "year": "2011",
+    "views": 19490688,
+    "country": "FR"
+  },
+  {
+    "title": "Blanche-Neige et les Sept Nains",
+    "director": "David Hand",
+    "year": "1938",
+    "views": 18319651,
+    "country": "US"
+  },
+  {
+    "title": "La Grande Vadrouille",
+    "director": "Gérard Oury",
+    "year": "1966",
+    "views": 17267607,
+    "country": "FR"
+  },
+  {
+    "title": "Autant en emporte le vent",
+    "director": "Victor Fleming",
+    "year": "1939",
+    "views": 16719236,
+    "country": "US"
+  },
+  {
+    "title": "Il était une fois dans l'Ouest",
+    "director": "Sergio Leone",
+    "year": "1968",
+    "views": 14862764,
+    "country": "IT"
+  },
+  {
+    "title": "Avatar",
+    "director": "James Cameron",
+    "year": "2009",
+    "views": 14775990,
+    "country": "US"
+  },
+  {
+    "title": "Le Livre de la Jungle",
+    "director": "Wolfgang Reitherman",
+    "year": "1968",
+    "views": 14695741,
+    "country": "US"
+  },
+  {
+    "title": "Les 101 Dalmatiens",
+    "director": "Clyde Geronimi",
+    "year": "1961",
+    "views": 14660594,
+    "country": "US"
+  }
+]
